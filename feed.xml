@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>sherpafeet-blog</title>
+    <link href="https://jaikant.github.io/sherpafeet/feed.xml" rel="self" />
+    <link href="https://jaikant.github.io/sherpafeet" />
+    <updated>2017-08-28T17:23:58+05:30</updated>
+    <author>
+        <name>Jai</name>
+    </author>
+    <id>https://jaikant.github.io/sherpafeet</id>
+
+    <entry>
+        <title>Testing the posting!</title>
+        <author>
+            <name>Jai</name>
+        </author>
+        <link href="https://jaikant.github.io/sherpafeet/testing-the-posting.html"/>
+        <id>https://jaikant.github.io/sherpafeet/testing-the-posting.html</id>
+
+        <updated>2017-08-28T17:20:17+05:30</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                This is a test!
+            ]]>
+        </content>
+    </entry>
+</feed>
