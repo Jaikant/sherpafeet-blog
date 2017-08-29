@@ -20,9 +20,10 @@
                 "name": "Jai"
             },
             "tags": [
+                   "Trekking"
             ],
-            "date_published": "2017-08-28T20:42:11+05:30",
-            "date_modified": "2017-08-28T20:41:38+05:30"
+            "date_published": "2017-08-29T10:46:17+05:30",
+            "date_modified": "2017-08-28T20:49:20+05:30"
         },
         {
             "id": "https://jaikant.github.io/sherpafeet/testing-the-posting.html",
@@ -34,7 +35,7 @@
             },
             "tags": [
             ],
-            "date_published": "2017-08-28T20:42:11+05:30",
+            "date_published": "2017-08-29T10:46:17+05:30",
             "date_modified": "2017-08-28T17:20:17+05:30"
         }
     ]

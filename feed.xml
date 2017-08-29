@@ -3,7 +3,7 @@
     <title>sherpafeet-blog</title>
     <link href="https://jaikant.github.io/sherpafeet/feed.xml" rel="self" />
     <link href="https://jaikant.github.io/sherpafeet" />
-    <updated>2017-08-28T20:42:11+05:30</updated>
+    <updated>2017-08-29T10:46:17+05:30</updated>
     <author>
         <name>Jai</name>
     </author>
@@ -16,8 +16,9 @@
         </author>
         <link href="https://jaikant.github.io/sherpafeet/just-a-test.html"/>
         <id>https://jaikant.github.io/sherpafeet/just-a-test.html</id>
+            <category term="Trekking"/>
 
-        <updated>2017-08-28T20:41:38+05:30</updated>
+        <updated>2017-08-28T20:49:20+05:30</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
