@@ -3,7 +3,7 @@
     <title>sherpafeet-blog</title>
     <link href="https://jaikant.github.io/sherpafeet/feed.xml" rel="self" />
     <link href="https://jaikant.github.io/sherpafeet" />
-    <updated>2017-08-29T10:46:17+05:30</updated>
+    <updated>2017-08-29T12:06:13+05:30</updated>
     <author>
         <name>Jai</name>
     </author>
@@ -14,8 +14,8 @@
         <author>
             <name>Jai</name>
         </author>
-        <link href="https://jaikant.github.io/sherpafeet/just-a-test.html"/>
-        <id>https://jaikant.github.io/sherpafeet/just-a-test.html</id>
+        <link href="https://jaikant.github.io/sherpafeet/just-a-test/"/>
+        <id>https://jaikant.github.io/sherpafeet/just-a-test/</id>
             <category term="Trekking"/>
 
         <updated>2017-08-28T20:49:20+05:30</updated>
@@ -33,22 +33,6 @@
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Testing the posting!</title>
-        <author>
-            <name>Jai</name>
-        </author>
-        <link href="https://jaikant.github.io/sherpafeet/testing-the-posting.html"/>
-        <id>https://jaikant.github.io/sherpafeet/testing-the-posting.html</id>
-
-        <updated>2017-08-28T17:20:17+05:30</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                This is a test!
             ]]>
         </content>
     </entry>

@@ -11,8 +11,8 @@
     },
     "items": [
         {
-            "id": "https://jaikant.github.io/sherpafeet/just-a-test.html",
-            "url": "https://jaikant.github.io/sherpafeet/just-a-test.html",
+            "id": "https://jaikant.github.io/sherpafeet/just-a-test/",
+            "url": "https://jaikant.github.io/sherpafeet/just-a-test/",
             "title": "Trek the Himalayas, but sensibly!",
             "content_html": "<p>The season for climbing Everest has just begun and there have been nearly a dozen tragedies. Sadly these tragedies could have been avoided. High altitude mountains are not very forgiving.</p>\n<p><img class=\"post__image--center\" src=\"https://jaikant.github.io/sherpafeet/media/posts/2/noteasy.gif\" alt=\"Meme - Isn't as easy as I thought!\" width=\"600\" height=\"337\"></p>\n<p>&nbsp;</p>\n<blockquote>\n<p class=\"align-center\">British Everest Expedition Leader Tim Mosedale, wrote on his facebook page<br><br>If the price sounds too good to be true then it probably&nbsp;is!</p>\n</blockquote>\n<p><br>You can read the complete post here.<br><br>The same is true for trekking in the Indian Himalayas, these are high altitude treks and exposes the trekkers to the same set of biggest killers on Everest &mdash; that is exhaustion, exposure, frostbite, falls and altitude sickness (AMS).<br><br>There are many precautions which should be taken, but the foremost thing is to choose the right guide. You should choose a qualified and experienced local guide. This is someone who is a local person and is trained, certifiedand experienced.<br><br>When you trek with a company you trust the company to choose the right guide for you. So select a company which is know for its professionalism. You need to be cautious of the less known agencies, which on negotiations reduce the trek cost but then send along an unqualified guide!<br><br>If you choose to trek with a guide, then you can select the guides listed on sherpafeet as we have selected guides based on recommendation of experienced trekkers and mountaineers followed by verification of their qualifications and experience. We also have a transparent rating in place so you can rate them as well. Some of these guides would be more expensive than a self organised trek with a porter, but not more expensive than your well being.<br><br>The next thing to look at is the ratio of the trek group size to guide, this should ideally be 6:1. That is for every 6 trekkers there should be one guide. I am not talking about porters, cooking staff, helpers or trek leaders (of companies). I am talking of the trekker to local guide ratio. This safety rule is completely flaunted by many professional trekking companies in their pursuit to high profits.<br><br><em>Does not matter who you decide to trek the Himalayas with, just remember that the number one most important thing is the guide or&nbsp;sherpa!</em></p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>",
             "image": "https://jaikant.github.io/sherpafeet/media/posts/2/donkeys.png",
@@ -22,21 +22,8 @@
             "tags": [
                    "Trekking"
             ],
-            "date_published": "2017-08-29T10:46:17+05:30",
+            "date_published": "2017-08-29T12:06:13+05:30",
             "date_modified": "2017-08-28T20:49:20+05:30"
-        },
-        {
-            "id": "https://jaikant.github.io/sherpafeet/testing-the-posting.html",
-            "url": "https://jaikant.github.io/sherpafeet/testing-the-posting.html",
-            "title": "Testing the posting!",
-            "content_html": "This is a test!",
-            "author": {
-                "name": "Jai"
-            },
-            "tags": [
-            ],
-            "date_published": "2017-08-29T10:46:17+05:30",
-            "date_modified": "2017-08-28T17:20:17+05:30"
         }
     ]
 }
